@@ -1,6 +1,6 @@
 # Programming Resources
 
-Here are a couple of resources I find interesting 
+Here are a couple of resources I find interesting and the resources are structured in alphabetical order. I hope you find them helpful :)
 
 
 Data Structure and Algorithms 
