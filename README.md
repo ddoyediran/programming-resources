@@ -1,6 +1,6 @@
 # Programming Resources
 
-Here are resources I find interesting.
+Here are a couple of resources I find interesting 
 
 
 Data Structure and Algorithms 
